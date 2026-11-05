@@ -1,0 +1,3568 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-11-05T02:46:23+00:00",
+  "review_status": "source-backed-with-explicit-profile-debt",
+  "sources": [
+    {
+      "id": "source:legacy-site",
+      "type": "first-party-archive",
+      "url": "https://protocoldecay.com/",
+      "local_path": "research/source/protocoldecay-2026-06-01.html",
+      "captured_at": "2026-06-01",
+      "confidence": 1.0
+    },
+    {
+      "id": "source:tokyo-transient",
+      "type": "token-metadata",
+      "url": "https://www.transient.xyz/mint/protocol-decay-tokyo-2025",
+      "confidence": 0.95
+    },
+    {
+      "id": "source:marfa-x-post",
+      "type": "social-post",
+      "url": "https://x.com/desultor/status/1982145488213168537",
+      "confidence": 0.85
+    },
+    {
+      "id": "source:maxcapacity-exhibits",
+      "type": "artist-site",
+      "url": "https://maxcapa.city/exhibits",
+      "confidence": 0.95
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "exhibit:tokyo-2025",
+      "slug": "tokyo-2025",
+      "title": "PROTOCOL DECAY: TOKYO 2025",
+      "sequence": 1,
+      "start_date": "2025-01-19",
+      "end_date": "2025-01-19",
+      "venue": "NOX Gallery",
+      "address": "2-5-1 EbisuNishi, Shibuya, Tokyo",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "country": "Japan",
+      "summary": "The first Protocol Decay, hosted by NOX Gallery during Art Golden Gai and NFT Japan 2025; presented by ArtBees Gallery and Superchief.",
+      "source_url": "https://protocoldecay.com/#tokyo2025",
+      "participant_ids": [
+        "artist:aitso",
+        "artist:apocalypse",
+        "artist:ap0ll0",
+        "artist:crow",
+        "artist:desultor",
+        "artist:ex-mortal",
+        "artist:haydiroket",
+        "artist:ina-vare",
+        "artist:itration",
+        "artist:jak",
+        "artist:max-capacity",
+        "artist:none32x32",
+        "artist:scamart",
+        "artist:sgt-slaughtermelon",
+        "artist:treeskulltown"
+      ],
+      "partner_ids": [
+        "partner:art-golden-gai",
+        "partner:artbees-gallery",
+        "partner:nft-japan",
+        "partner:nox-gallery",
+        "partner:superchief-gallery"
+      ],
+      "artist_count": 15,
+      "media": [
+        {
+          "kind": "poster",
+          "local_path": "/assets/archive/exhibits/tokyo-2025/poster.gif",
+          "bytes": 8726687,
+          "sha256": "d5e0ba2f7799d6c6a4743d9df41b15229db158767580c9af1db7792582315750",
+          "mime_type": "image/gif"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/tokyo-2025/installation-01.jpg",
+          "bytes": 281341,
+          "sha256": "7880285758cef58caea1ccfc2098e64a07a1b0635f71979b27c8995a5fdf5c80",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/tokyo-2025/desultor-artwork.jpg",
+          "bytes": 23128,
+          "sha256": "739040757f6d9386ce700041524d92b4de8ab129ca7f05d82a233f0283037f50",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/tokyo-2025/user-supplied-nox-gallery-skull-studies-installation-99f6be5233b9.jpg",
+          "bytes": 166575,
+          "sha256": "99f6be5233b962860249cac60a56fbf319c9cd4591337a5141637d00cc0b468a",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site",
+        "source:maxcapacity-exhibits"
+      ],
+      "review_status": "source-backed"
+    },
+    {
+      "id": "exhibit:craiova-2025",
+      "slug": "craiova-2025",
+      "title": "PROTOCOL DECAY: CRAIOVA 2025",
+      "sequence": 2,
+      "start_date": "2025-05-17",
+      "end_date": "2025-05-24",
+      "venue": "Arta 2 Gallery",
+      "address": "Bulevardul Stirbei Voda 10, Craiova, Romania",
+      "city": "Craiova",
+      "region": null,
+      "country": "Romania",
+      "summary": "The second Protocol Decay, hosted by Arta 2 Gallery and presented by ArtBees Gallery, with a live performance by DJ Anrei YC.",
+      "source_url": "https://protocoldecay.com/#craiova2025",
+      "participant_ids": [
+        "artist:aitso",
+        "artist:apocalypse",
+        "artist:ap0ll0",
+        "artist:crow",
+        "artist:desultor",
+        "artist:ex-mortal",
+        "artist:haydiroket",
+        "artist:ina-vare",
+        "artist:itration",
+        "artist:jak",
+        "artist:max-capacity",
+        "artist:none32x32",
+        "artist:scamart",
+        "artist:sgt-slaughtermelon",
+        "artist:treeskulltown",
+        "artist:gnz",
+        "artist:greencross",
+        "artist:time"
+      ],
+      "partner_ids": [
+        "partner:arta-2-gallery",
+        "partner:artbees-gallery",
+        "partner:union-of-artists-romania"
+      ],
+      "artist_count": 18,
+      "media": [
+        {
+          "kind": "poster",
+          "local_path": "/assets/archive/exhibits/craiova-2025/poster.gif",
+          "bytes": 12195475,
+          "sha256": "05bbd47207e3be7a18dc4225eaeab203b760356bea604e9d6bc30ed9fd5291de",
+          "mime_type": "image/gif"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/craiova-2025/installation-01.jpeg",
+          "bytes": 332381,
+          "sha256": "1838373b1cb0bcc4f2a9da1c14cbf1fd70e1795bd6de3ad0fd91d7f715bddc59",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site",
+        "source:maxcapacity-exhibits"
+      ],
+      "review_status": "source-backed"
+    },
+    {
+      "id": "exhibit:nyc-2025",
+      "slug": "nyc-2025",
+      "title": "PROTOCOL DECAY: NYC 2025",
+      "sequence": 3,
+      "start_date": "2025-06-27",
+      "end_date": "2025-06-27",
+      "venue": "Lume Studios",
+      "address": "393 Broadway, New York, NY 10013",
+      "city": "New York",
+      "region": "NY",
+      "country": "United States",
+      "summary": "The third Protocol Decay, hosted at Lume Studios and presented as a dedicated screen curation by The Canal Street Show, PepeEternal, and Efdot.",
+      "source_url": "https://protocoldecay.com/#nyc2025",
+      "participant_ids": [
+        "artist:0xedwoods",
+        "artist:aint-othin",
+        "artist:desultor",
+        "artist:jotta",
+        "artist:jrdsctt",
+        "artist:max-capacity",
+        "artist:squint",
+        "artist:trapers",
+        "artist:trillobyte"
+      ],
+      "partner_ids": [
+        "partner:the-canal-street-show",
+        "partner:lume-studios",
+        "partner:efdot",
+        "partner:pepeeternal"
+      ],
+      "artist_count": 9,
+      "media": [
+        {
+          "kind": "poster",
+          "local_path": "/assets/archive/exhibits/nyc-2025/poster.gif",
+          "bytes": 4865181,
+          "sha256": "1fd69951b8b316d27b90ba9cad46491b01c2dbffef327a4efd9a22969388f8ce",
+          "mime_type": "image/gif"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/nyc-2025/venue-lume.jpg",
+          "bytes": 10778,
+          "sha256": "ced4077682fdbaf1c5acce74b953f08fd35ed3e5ed9c37c237418df2ba258e50",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/nyc-2025/installation-01.jpg",
+          "bytes": 830967,
+          "sha256": "a392f542a43a8db89be4777f5a8f582967292eb67ebbd0e8905ee6c6eb62bd5a",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site",
+        "source:maxcapacity-exhibits"
+      ],
+      "review_status": "source-backed"
+    },
+    {
+      "id": "exhibit:marfa-2025",
+      "slug": "marfa-2025",
+      "title": "PROTOCOL DECAY: MARFA 2025",
+      "sequence": 4,
+      "start_date": "2025-10-18",
+      "end_date": "2025-10-18",
+      "venue": "Wrong Gallery",
+      "address": "112 W Dallas St, Marfa, TX 79843",
+      "city": "Marfa",
+      "region": "TX",
+      "country": "United States",
+      "summary": "The fourth Protocol Decay, staged in a Texas church during Art Blocks Weekend 2025 and hosted by Desultor.",
+      "source_url": "https://protocoldecay.com/#marfa2025",
+      "date_claims": [
+        {
+          "date": "2025-10-18",
+          "source_id": "source:legacy-site",
+          "status": "canonical-first-party-page"
+        },
+        {
+          "date": "2025-10-25",
+          "source_id": "source:marfa-x-post",
+          "status": "conflicting-social-post-date"
+        }
+      ],
+      "participant_ids": [
+        "artist:absolutely-wrong",
+        "artist:aint-othin",
+        "artist:aitso",
+        "artist:anz",
+        "artist:apocalypse",
+        "artist:chris-granneberg",
+        "artist:c0mputerbl00d",
+        "artist:crow",
+        "artist:demonego",
+        "artist:d-o-l-l-x",
+        "artist:ex-mortal",
+        "artist:desultor",
+        "artist:greencross",
+        "artist:ina-vare",
+        "artist:itration",
+        "artist:john-thurman",
+        "artist:jrdsctt",
+        "artist:max-capacity",
+        "artist:none32x32",
+        "artist:lorenipsum",
+        "artist:lorna-mills",
+        "artist:macbeth",
+        "artist:myknash",
+        "artist:nebular",
+        "artist:nuclear-samauri",
+        "artist:paperbuddha",
+        "artist:princess-tuti",
+        "artist:rebecca-rose",
+        "artist:sean-luke",
+        "artist:spell",
+        "artist:time",
+        "artist:treeskulltown",
+        "artist:woman",
+        "artist:zafgod"
+      ],
+      "partner_ids": [
+        "partner:desultor",
+        "partner:jrdsctt",
+        "partner:attabotty"
+      ],
+      "artist_count": 34,
+      "media": [
+        {
+          "kind": "poster",
+          "local_path": "/assets/archive/exhibits/marfa-2025/poster.gif",
+          "bytes": 10089303,
+          "sha256": "c85c993991466bbaefce5db9394577cbbf9a7ecee9533e8d72a14ea14dd46a0d",
+          "mime_type": "image/gif"
+        },
+        {
+          "kind": "video",
+          "local_path": "/assets/archive/exhibits/marfa-2025/post-event-video.mp4",
+          "bytes": 32094104,
+          "sha256": "66f3de0218667a6c5aabafad537e5e3ef755ed34bfcfdd664ef8b88d092070ca",
+          "mime_type": "video/mp4"
+        },
+        {
+          "kind": "documentation",
+          "local_path": "/assets/archive/exhibits/marfa-2025/instagram-DQPoO98EbJx.jpg",
+          "bytes": 47027,
+          "sha256": "eb2bea267d50eac8ca6f0fc6412e92d9943b19e55cd8bc0495dbb73ddd5b4657",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "kind": "video",
+          "local_path": "/assets/archive/exhibits/marfa-2025/instagram-DQPoO98EbJx.mp4",
+          "bytes": 17176490,
+          "sha256": "0e81f9f25bb05b7aa049e57cfd3229d2862901e1f175bc6fd46561cca1f24af9",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site",
+        "source:maxcapacity-exhibits"
+      ],
+      "review_status": "source-backed"
+    }
+  ],
+  "artists": [
+    {
+      "id": "artist:0xedwoods",
+      "slug": "0xedwoods",
+      "source_name": "0xEdwoods",
+      "display_name": "0xEdwoods",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/0xedwoods.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-edwoods.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:absolutely-wrong",
+      "slug": "absolutely-wrong",
+      "source_name": "Absolutely Wrong",
+      "display_name": "Absolutely Wrong",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/absolutely-wrong.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/absolutely-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:aint-othin",
+      "slug": "aint-othin",
+      "source_name": "aint иothin",
+      "display_name": "aint иothin",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/aint-othin.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-aint-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-aint-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:aitso",
+      "slug": "aitso",
+      "source_name": "aitso",
+      "display_name": "aitso",
+      "handle": "aitsolabs",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/aitsolabs"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/aitso.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-aitso-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-aitso-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-aitso-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:anz",
+      "slug": "anz",
+      "source_name": "anz",
+      "display_name": "anz",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/anz.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/anz-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:ap0ll0",
+      "slug": "ap0ll0",
+      "source_name": "AP0̷LL0̷",
+      "display_name": "AP0̷LL0̷",
+      "handle": "ApolloDoge",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/ApolloDoge"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/ap0ll0.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-apollo-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-apollo-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:apocalypse",
+      "slug": "apocalypse",
+      "source_name": "apocalypse",
+      "display_name": "apocalypse",
+      "handle": "apocalypticform",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/apocalypticform"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/apocalypse.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-apoc-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-apoc-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-apoc-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:c0mputerbl00d",
+      "slug": "c0mputerbl00d",
+      "source_name": "C0MPUTERBL00D",
+      "display_name": "C0MPUTERBL00D",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/c0mputerbl00d.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/computerblood-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:chris-granneberg",
+      "slug": "chris-granneberg",
+      "source_name": "Chris Granneberg",
+      "display_name": "Chris Granneberg",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/chris-granneberg.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/chris-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:crow",
+      "slug": "crow",
+      "source_name": "crow",
+      "display_name": "crow",
+      "handle": "crowgmi",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/crowgmi"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/crow.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-crow-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-crow-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-crow-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:d-o-l-l-x",
+      "slug": "d-o-l-l-x",
+      "source_name": "d o l l x",
+      "display_name": "d o l l x",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/d-o-l-l-x.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/dollx-300x300.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:demonego",
+      "slug": "demonego",
+      "source_name": "DemonEgo",
+      "display_name": "DemonEgo",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/demonego.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/demonego-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:desultor",
+      "slug": "desultor",
+      "source_name": "desultor",
+      "display_name": "Desultor",
+      "handle": "desultor",
+      "roles": [
+        "artist",
+        "co-curator",
+        "Marfa host and producer"
+      ],
+      "bio": "Crunchy artist working across physical and digital objects, painting, glitch, and cryptoart.",
+      "style": [
+        "glitch",
+        "physical-digital",
+        "painting",
+        "cryptoart",
+        "dystopian signals"
+      ],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/desultor"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://desultor.art"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/desultor.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:nyc-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 4,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-des-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-des-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-des-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-des-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "verified",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:ex-mortal",
+      "slug": "ex-mortal",
+      "source_name": "ex_mortal",
+      "display_name": "ex_mortal",
+      "handle": "ex_mortal_",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/ex_mortal_"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/ex-mortal.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ex-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ex-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ex-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:greencross",
+      "slug": "greencross",
+      "source_name": "greencross",
+      "display_name": "greencross",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/greencross.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/romania-greencross-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/romania-greencross-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:gnz",
+      "slug": "gnz",
+      "source_name": "gønz",
+      "display_name": "gønz",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/gnz.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/romania-gonzy-300x300.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:haydiroket",
+      "slug": "haydiroket",
+      "source_name": "haydiroket",
+      "display_name": "haydiroket",
+      "handle": "haydiroket",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/haydiroket"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/haydiroket.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-haydi.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-haydi.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:ina-vare",
+      "slug": "ina-vare",
+      "source_name": "INA VARE",
+      "display_name": "INA VARE",
+      "handle": "ina_vare",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/ina_vare"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/ina-vare.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ina-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ina-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-ina-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:itration",
+      "slug": "itration",
+      "source_name": "ITΞRATION",
+      "display_name": "Iteration",
+      "handle": "Iteration__",
+      "roles": [
+        "artist"
+      ],
+      "bio": "Digital artist with a documented international exhibition practice spanning glitch-art and screen-based shows.",
+      "style": [
+        "digital art",
+        "glitch art"
+      ],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/Iteration__"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://iteration.one"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/itration.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-iteration-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-iteration-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-iteration-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "source-backed-summary",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:jak",
+      "slug": "jak",
+      "source_name": "jak",
+      "display_name": "jak",
+      "handle": "JakNFT",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/JakNFT"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/jak.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-jak-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-jak-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:john-thurman",
+      "slug": "john-thurman",
+      "source_name": "John Thurman",
+      "display_name": "John Thurman",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/john-thurman.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/john-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:jotta",
+      "slug": "jotta",
+      "source_name": "jotta",
+      "display_name": "jotta",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/jotta.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-jotta-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:jrdsctt",
+      "slug": "jrdsctt",
+      "source_name": "jrdsctt",
+      "display_name": "jrdsctt",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/jrdsctt.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/jrd-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/jrd-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:lorenipsum",
+      "slug": "lorenipsum",
+      "source_name": "lorenipsum",
+      "display_name": "lorenipsum",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/lorenipsum.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/loren-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:lorna-mills",
+      "slug": "lorna-mills",
+      "source_name": "Lorna Mills",
+      "display_name": "Lorna Mills",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/lorna-mills.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/lorna.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:macbeth",
+      "slug": "macbeth",
+      "source_name": "MACBETH",
+      "display_name": "MACBETH",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/macbeth.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/macbeth-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:max-capacity",
+      "slug": "max-capacity",
+      "source_name": "MAX CAPACITY",
+      "display_name": "Max Capacity",
+      "handle": "maxcapacity",
+      "roles": [
+        "artist",
+        "co-curator"
+      ],
+      "bio": "Digital artist exploring analog and digital media, obsolete technology, entropy, and disintegration.",
+      "style": [
+        "analog VHS glitch",
+        "pixel art",
+        "obsolete technology",
+        "decay"
+      ],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/maxcapacity"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://maxcapa.city"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/max-capacity.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:nyc-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 4,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-max-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-max-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-max-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-max-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "verified",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:myknash",
+      "slug": "myknash",
+      "source_name": "MykNash",
+      "display_name": "MykNash",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/myknash.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/myk-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:nebular",
+      "slug": "nebular",
+      "source_name": "nebülar",
+      "display_name": "nebülar",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/nebular.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/nebular-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:none32x32",
+      "slug": "none32x32",
+      "source_name": "NONE32x32",
+      "display_name": "NONE32x32",
+      "handle": "NONE32X32",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/NONE32X32"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/none32x32.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-none32-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-none32-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-none32-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:nuclear-samauri",
+      "slug": "nuclear-samauri",
+      "source_name": "Nuclear Samauri",
+      "display_name": "Nuclear Samauri",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/nuclear-samauri.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/nuclear-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:paperbuddha",
+      "slug": "paperbuddha",
+      "source_name": "PaperBuddha",
+      "display_name": "PaperBuddha",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/paperbuddha.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/paper-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:princess-tuti",
+      "slug": "princess-tuti",
+      "source_name": "princess tuti",
+      "display_name": "princess tuti",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/princess-tuti.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/princess-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:rebecca-rose",
+      "slug": "rebecca-rose",
+      "source_name": "Rebecca Rose",
+      "display_name": "Rebecca Rose",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/rebecca-rose.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/rebecca-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:scamart",
+      "slug": "scamart",
+      "source_name": "Scamart",
+      "display_name": "Scamart",
+      "handle": "Scamart_0v0",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/Scamart_0v0"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/scamart.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-scam-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-scam-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:sean-luke",
+      "slug": "sean-luke",
+      "source_name": "Sean Luke",
+      "display_name": "Sean Luke",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/sean-luke.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/sean-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:sgt-slaughtermelon",
+      "slug": "sgt-slaughtermelon",
+      "source_name": "sgt_slaughtermelon",
+      "display_name": "sgt_slaughtermelon",
+      "handle": "sgt_sl8termelon",
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/sgt_sl8termelon"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/sgt-slaughtermelon.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-sgt-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-sgt-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:spell",
+      "slug": "spell",
+      "source_name": "spell",
+      "display_name": "spell",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/spell.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/spell-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:squint",
+      "slug": "squint",
+      "source_name": "Squint",
+      "display_name": "Squint",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/squint.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-squint-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:time",
+      "slug": "time",
+      "source_name": "time",
+      "display_name": "time",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/time.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 2,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/romania-times-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/time-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:trapers",
+      "slug": "trapers",
+      "source_name": "trapers",
+      "display_name": "trapers",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/trapers.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-trapers-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:treeskulltown",
+      "slug": "treeskulltown",
+      "source_name": "treeskulltown",
+      "display_name": "treeskulltown",
+      "handle": "treeskulltown2",
+      "roles": [
+        "artist"
+      ],
+      "bio": "Contemporary digital artist working with glitch aesthetics, digital alchemy, and subrealism.",
+      "style": [
+        "glitch",
+        "digital alchemy",
+        "subrealism"
+      ],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/treeskulltown2"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://treeskulltown.com"
+        }
+      ],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/treeskulltown.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025",
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 3,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:tokyo-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-treeskull-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:craiova-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-treeskull-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        },
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/tokyo-treeskull-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "source-backed-summary",
+      "source_ids": [
+        "source:legacy-site",
+        "source:tokyo-transient"
+      ]
+    },
+    {
+      "id": "artist:trillobyte",
+      "slug": "trillobyte",
+      "source_name": "Trillobyte",
+      "display_name": "Trillobyte",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/trillobyte.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:nyc-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:nyc-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/ny-trillo-300x300.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:woman",
+      "slug": "woman",
+      "source_name": "Woman",
+      "display_name": "Woman",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/woman.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/woman-300x300.jpg",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "artist:zafgod",
+      "slug": "zafgod",
+      "source_name": "ZafGod",
+      "display_name": "ZafGod",
+      "handle": null,
+      "roles": [
+        "artist"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/zafgod.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [
+        {
+          "exhibit_id": "exhibit:marfa-2025",
+          "kind": "exhibition-artwork-tile",
+          "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/10/zaf-300x300.png",
+          "archived": false,
+          "note": "First-party exhibition tile; not a verified portrait or social avatar."
+        }
+      ],
+      "profile_status": "roster-verified-profile-pending",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    }
+  ],
+  "partners": [
+    {
+      "id": "partner:art-golden-gai",
+      "name": "Art Golden Gai",
+      "shows": [
+        "exhibit:tokyo-2025"
+      ],
+      "roles": [
+        "Tokyo event context"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:arta-2-gallery",
+      "name": "ARTA 2 Gallery",
+      "shows": [
+        "exhibit:craiova-2025"
+      ],
+      "roles": [
+        "Craiova host"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:artbees-gallery",
+      "name": "ArtBees Gallery",
+      "shows": [
+        "exhibit:tokyo-2025",
+        "exhibit:craiova-2025"
+      ],
+      "roles": [
+        "Craiova presenter",
+        "Tokyo presenter"
+      ],
+      "links": [
+        {
+          "label": "website",
+          "url": "https://www.artbees.gallery/"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:attabotty",
+      "name": "AttaBotty",
+      "shows": [
+        "exhibit:marfa-2025"
+      ],
+      "roles": [
+        "Marfa production"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:desultor",
+      "name": "desultor",
+      "shows": [
+        "exhibit:marfa-2025"
+      ],
+      "roles": [
+        "Marfa production"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:dj-anrei-yc",
+      "name": "DJ Anrei YC",
+      "shows": [
+        "exhibit:craiova-2025"
+      ],
+      "roles": [
+        "live performer"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:efdot",
+      "name": "Efdot",
+      "shows": [
+        "exhibit:nyc-2025"
+      ],
+      "roles": [
+        "NYC presenter"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:jrdsctt",
+      "name": "jrdsctt",
+      "shows": [
+        "exhibit:marfa-2025"
+      ],
+      "roles": [
+        "Marfa production"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:lume-studios",
+      "name": "Lume Studios",
+      "shows": [
+        "exhibit:nyc-2025"
+      ],
+      "roles": [
+        "NYC host"
+      ],
+      "links": [
+        {
+          "label": "website",
+          "url": "https://www.lumestudios.com/"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:nft-japan",
+      "name": "NFT Japan",
+      "shows": [
+        "exhibit:tokyo-2025"
+      ],
+      "roles": [
+        "Tokyo event context"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:nox-gallery",
+      "name": "NOX Gallery",
+      "shows": [
+        "exhibit:tokyo-2025"
+      ],
+      "roles": [
+        "Tokyo host"
+      ],
+      "links": [
+        {
+          "label": "website",
+          "url": "https://noxgallery.art/"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:pepeeternal",
+      "name": "PepeEternal",
+      "shows": [
+        "exhibit:nyc-2025"
+      ],
+      "roles": [
+        "NYC presenter"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:schrympto",
+      "name": "Schrympto",
+      "shows": [
+        "exhibit:marfa-2025"
+      ],
+      "roles": [
+        "support acknowledgement"
+      ],
+      "links": [
+        {
+          "label": "X",
+          "url": "https://x.com/schmrypto"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site",
+        "source:marfa-x-post"
+      ]
+    },
+    {
+      "id": "partner:superchief-gallery",
+      "name": "Superchief Gallery",
+      "shows": [
+        "exhibit:tokyo-2025"
+      ],
+      "roles": [
+        "Tokyo presenter"
+      ],
+      "links": [
+        {
+          "label": "website",
+          "url": "https://superchiefgallerynft.com/"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:the-canal-street-show",
+      "name": "The Canal Street Show",
+      "shows": [
+        "exhibit:nyc-2025"
+      ],
+      "roles": [
+        "NYC presenter"
+      ],
+      "links": [
+        {
+          "label": "website",
+          "url": "https://thecanalstshow.com/"
+        }
+      ],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "partner:union-of-artists-romania",
+      "name": "Union of Artists Romania",
+      "shows": [
+        "exhibit:craiova-2025"
+      ],
+      "roles": [
+        "Craiova presenter"
+      ],
+      "links": [],
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    }
+  ],
+  "collateral": [
+    {
+      "id": "collateral:tokyo-2025:001",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2995-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2995-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:002",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3019-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3019-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:003",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3229-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3229-300x168.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:004",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2893-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2893-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:005",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3171-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3171-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:006",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/max-scam-sarge-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/max-scam-sarge-300x182.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:007",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/sarge-iteration-crow-treeskull-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/sarge-iteration-crow-treeskull-300x182.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:008",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3069-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3069-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:009",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3062-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3062-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:010",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3240-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3240-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:011",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/sarge-iteration-crow-treesk.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/sarge-iteration-crow-treesk-300x182.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:012",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3027-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3027-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:013",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3066-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3066-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:014",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/iteration_crow-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/iteration_crow-300x193.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:015",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3059-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3059-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:016",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3188-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3188-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:017",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3147-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3147-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:018",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3076-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3076-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:019",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3155-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3155-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:020",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2974-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2974-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:021",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2983-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2983-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:022",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3109-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3109-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:023",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2947-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2947-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:024",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3195-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3195-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:025",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3140-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3140-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:026",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3052-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3052-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:027",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3033-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3033-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:028",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3080-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3080-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:029",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3197-1-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3197-1-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:030",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2958-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2958-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:031",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3067-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3067-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:032",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/group14-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/group14-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:033",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3172-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_3172-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:tokyo-2025:034",
+      "exhibit_id": "exhibit:tokyo-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2943-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2943-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:035",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1319-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1319-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:036",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_25241-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_25241-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:037",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2473-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2473-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:038",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2284-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2284-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:039",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2269-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2269-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:040",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2622-scaled.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2622-300x225.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:041",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1314-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1314-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:042",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2575-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2575-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:043",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2540-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2540-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:044",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2536-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2536-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:045",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1329-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1329-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:046",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2547-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2547-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:047",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2274-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2274-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:048",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1288-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1288-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:049",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2441-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2441-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:050",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2268-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2268-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:051",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2279-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2279-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:052",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1310-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1310-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:053",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2556-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2556-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:054",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2512-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2512-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:055",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2273-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2273-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:056",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1311-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1311-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:057",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1294-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1294-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:058",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2553-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2553-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:059",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1274-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1274-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:060",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2540-1-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2540-1-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:061",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2283-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2283-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:062",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1303-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1303-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:063",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2581-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_2581-225x300.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:064",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1310-1-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1310-1-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:065",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1312-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1312-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:066",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1292-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1292-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:067",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1305-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1305-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:068",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_22731-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_22731-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:craiova-2025:069",
+      "exhibit_id": "exhibit:craiova-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1320-scaled.jpeg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_1320-300x225.jpeg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:070",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/DSC04961-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/DSC04961-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:071",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_4087-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_4087-300x225.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:072",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_7608-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_7608-225x300.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:073",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_7922-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/IMG_7922-300x200.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:074",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-1.39.28 PM.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/Screenshot-2025-07-02-at-1.39.28 PM-235x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:075",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500005.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500005-167x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:076",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500003.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500003-168x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:077",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500002.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500002-174x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:078",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500006.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500006-167x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:079",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/E2E5804C-304A-4BA5-8AFE-DDD8917E314F-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/E2E5804C-304A-4BA5-8AFE-DDD8917E314F-225x300.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:080",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/E9087E3F-B107-467D-9B0F-7DE60B815C6D-1-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/E9087E3F-B107-467D-9B0F-7DE60B815C6D-1-225x300.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:081",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/287D6F68-C646-45BC-8295-27D9B4071F17-1-scaled.jpg",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/287D6F68-C646-45BC-8295-27D9B4071F17-1-225x300.jpg",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    },
+    {
+      "id": "collateral:nyc-2025:082",
+      "exhibit_id": "exhibit:nyc-2025",
+      "kind": "legacy-installation-source",
+      "remote_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500008.png",
+      "thumbnail_url": "https://protocoldecay.com/wp-content/uploads/2025/07/canalst202500008-167x300.png",
+      "local_path": null,
+      "availability": "source-url-offline",
+      "source_ids": [
+        "source:legacy-site"
+      ]
+    }
+  ],
+  "stats": {
+    "exhibits": 4,
+    "unique_artists": 45,
+    "artist_appearances": 76,
+    "repeat_artists": 19,
+    "partners": 16,
+    "local_media": 13,
+    "legacy_collateral_unrecovered": 82
+  },
+  "known_gaps": [
+    "Verified social avatars, biographies, and style statements remain incomplete for profiles not directly supported by inspected artist sources.",
+    "Legacy first-party artwork tiles and large installation galleries are indexed, but their old wp-content URLs now return 404; only previously archived originals are served locally.",
+    "The first-party Marfa page says 18 October 2025 while the cited social post is dated 25 October 2025; both claims are retained for review.",
+    "The Marfa poster carried a stale NYC caption in the legacy page; local association is based on section placement and the October asset path."
+  ]
+}

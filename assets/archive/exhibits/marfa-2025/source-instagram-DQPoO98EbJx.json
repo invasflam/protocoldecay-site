@@ -1,0 +1,34 @@
+{
+  "source": "instagram.com/desultor_",
+  "shortcode": "DQPoO98EbJx",
+  "permalink": "https://www.instagram.com/p/DQPoO98EbJx/",
+  "caption": "PROTOCOL DECAY MARFA 🌵 \n\n35 artists showcased and hosted by your guy in a church in Texas. love to friends who made it happen 💚 #glitchart #cryptoart #artblocksmarfa #marfa2025",
+  "classification": "promoted-existing-exhibition-no-new-row",
+  "exhibition_slug": "protocol-decay-marfa-2025",
+  "capture_paths": [
+    "archive/instagram/desultor_/20260630T023916Z-public-url",
+    "archive/instagram/desultor_/20260906T081207Z-known-exhibition-posts"
+  ],
+  "assets": [
+    {
+      "shortcode": "DQPoO98EbJx",
+      "kind": "video",
+      "local_path": "exhibitions/protocol-decay-marfa-2025/instagram-DQPoO98EbJx.mp4",
+      "bytes": 17176490,
+      "sha256": "0e81f9f25bb05b7aa049e57cfd3229d2862901e1f175bc6fd46561cca1f24af9",
+      "width": 1276,
+      "height": 718,
+      "duration": "88.666016",
+      "mime_type": "video/mp4"
+    },
+    {
+      "shortcode": "DQPoO98EbJx",
+      "kind": "cover",
+      "local_path": "exhibitions/protocol-decay-marfa-2025/instagram-DQPoO98EbJx.jpg",
+      "bytes": 47027,
+      "sha256": "eb2bea267d50eac8ca6f0fc6412e92d9943b19e55cd8bc0495dbb73ddd5b4657"
+    }
+  ],
+  "last_checked": "2026-09-06",
+  "duplicate_policy": "updated existing exhibition row; did not create duplicate exhibition"
+}
