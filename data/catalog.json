@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T02:46:23+00:00",
+  "generated_at": "2026-11-05T10:17:04+00:00",
   "review_status": "source-backed-with-explicit-profile-debt",
   "sources": [
     {
@@ -28,6 +28,94 @@
       "type": "artist-site",
       "url": "https://maxcapa.city/exhibits",
       "confidence": 0.95
+    },
+    {
+      "id": "source:maxcapacity-tokyo",
+      "type": "co-curator-exhibition-page",
+      "url": "https://maxcapa.city/exhibits/protocol-decay---tokyo-2025",
+      "local_path": "research/source/exhibits/maxcapacity-tokyo-2026-11-05.html",
+      "captured_at": "2026-11-05",
+      "confidence": 0.9
+    },
+    {
+      "id": "source:maxcapacity-craiova",
+      "type": "co-curator-exhibition-page",
+      "url": "https://maxcapa.city/exhibits/protocol-decay---craiova-2025",
+      "local_path": "research/source/exhibits/maxcapacity-craiova-2026-11-05.html",
+      "captured_at": "2026-11-05",
+      "confidence": 0.9
+    },
+    {
+      "id": "source:maxcapacity-nyc",
+      "type": "co-curator-exhibition-page",
+      "url": "https://maxcapa.city/exhibits/protocol-decay---nyc-2025",
+      "local_path": "research/source/exhibits/maxcapacity-nyc-2026-11-05.html",
+      "captured_at": "2026-11-05",
+      "confidence": 0.82
+    },
+    {
+      "id": "source:maxcapacity-marfa",
+      "type": "co-curator-exhibition-page",
+      "url": "https://maxcapa.city/exhibits/protocol-decay---marfa-2025",
+      "local_path": "research/source/exhibits/maxcapacity-marfa-2026-11-05.html",
+      "captured_at": "2026-11-05",
+      "confidence": 0.9
+    },
+    {
+      "id": "source:0xedwoods-gif-gallery",
+      "type": "gallery-profile",
+      "url": "https://www.gif-gallery.com/artists/0xedwoods",
+      "local_path": "research/source/artists/0xedwoods-gif-gallery-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.75
+    },
+    {
+      "id": "source:absolutely-wrong-superrare",
+      "type": "marketplace-profile",
+      "url": "https://superrare.com/absolutely_wrong",
+      "local_path": "research/source/artists/absolutely-wrong-superrare-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.85
+    },
+    {
+      "id": "source:crow-official",
+      "type": "artist-site",
+      "url": "https://www.crow.art/about",
+      "local_path": "research/source/artists/crow-official-2026-11-05.html",
+      "captured_at": "2026-11-05",
+      "confidence": 0.98
+    },
+    {
+      "id": "source:john-thurman-official",
+      "type": "artist-site",
+      "url": "https://johnthurman.art/about",
+      "local_path": "research/source/artists/john-thurman-official-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.98
+    },
+    {
+      "id": "source:jrdsctt-official",
+      "type": "artist-site",
+      "url": "http://jrdsctt.com/about",
+      "local_path": "research/source/artists/jrdsctt-official-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.95
+    },
+    {
+      "id": "source:lorna-mills-whitney",
+      "type": "institutional-profile",
+      "url": "https://whitney.org/artists/17414",
+      "local_path": "research/source/artists/lorna-mills-whitney-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.97
+    },
+    {
+      "id": "source:rebecca-rose-official",
+      "type": "artist-site",
+      "url": "https://www.rebeccarosenft.com/about",
+      "local_path": "research/source/artists/rebecca-rose-official-2026-11-04.html",
+      "captured_at": "2026-11-04",
+      "confidence": 0.98
     }
   ],
   "exhibits": [
@@ -102,7 +190,7 @@
       ],
       "source_ids": [
         "source:legacy-site",
-        "source:maxcapacity-exhibits"
+        "source:maxcapacity-tokyo"
       ],
       "review_status": "source-backed"
     },
@@ -164,7 +252,7 @@
       ],
       "source_ids": [
         "source:legacy-site",
-        "source:maxcapacity-exhibits"
+        "source:maxcapacity-craiova"
       ],
       "review_status": "source-backed"
     },
@@ -182,6 +270,19 @@
       "country": "United States",
       "summary": "The third Protocol Decay, hosted at Lume Studios and presented as a dedicated screen curation by The Canal Street Show, PepeEternal, and Efdot.",
       "source_url": "https://protocoldecay.com/#nyc2025",
+      "roster_claims": [
+        {
+          "count": 9,
+          "source_id": "source:legacy-site",
+          "status": "nine-names-enumerated"
+        },
+        {
+          "count": 10,
+          "enumerated_names": 9,
+          "source_id": "source:maxcapacity-nyc",
+          "status": "heading-count-conflicts-with-enumerated-list"
+        }
+      ],
       "participant_ids": [
         "artist:0xedwoods",
         "artist:aint-othin",
@@ -225,7 +326,7 @@
       ],
       "source_ids": [
         "source:legacy-site",
-        "source:maxcapacity-exhibits"
+        "source:maxcapacity-nyc"
       ],
       "review_status": "source-backed"
     },
@@ -250,9 +351,21 @@
           "status": "canonical-first-party-page"
         },
         {
-          "date": "2025-10-25",
-          "source_id": "source:marfa-x-post",
-          "status": "conflicting-social-post-date"
+          "date": "2025-10-18",
+          "source_id": "source:maxcapacity-marfa",
+          "status": "corroborating-co-curator-page"
+        }
+      ],
+      "roster_claims": [
+        {
+          "count": 34,
+          "source_id": "source:legacy-site",
+          "status": "archived-first-party-gallery"
+        },
+        {
+          "count": 35,
+          "source_id": "source:maxcapacity-marfa",
+          "status": "co-curator-page-includes-attabotty"
         }
       ],
       "participant_ids": [
@@ -289,14 +402,15 @@
         "artist:time",
         "artist:treeskulltown",
         "artist:woman",
-        "artist:zafgod"
+        "artist:zafgod",
+        "artist:attabotty"
       ],
       "partner_ids": [
         "partner:desultor",
         "partner:jrdsctt",
         "partner:attabotty"
       ],
-      "artist_count": 34,
+      "artist_count": 35,
       "media": [
         {
           "kind": "poster",
@@ -329,9 +443,9 @@
       ],
       "source_ids": [
         "source:legacy-site",
-        "source:maxcapacity-exhibits"
+        "source:maxcapacity-marfa"
       ],
-      "review_status": "source-backed"
+      "review_status": "source-backed-with-roster-claim-difference"
     }
   ],
   "artists": [
@@ -340,13 +454,24 @@
       "slug": "0xedwoods",
       "source_name": "0xEdwoods",
       "display_name": "0xEdwoods",
-      "handle": null,
+      "handle": "0xEdwoods",
       "roles": [
         "artist"
       ],
       "bio": null,
       "style": [],
-      "links": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/0xEdwoods"
+        },
+        {
+          "kind": "profile",
+          "label": "linktree",
+          "url": "https://linktr.ee/0xedwoods"
+        }
+      ],
       "avatar": {
         "kind": "generated-identity-tile",
         "local_path": "/assets/archive/artists/0xedwoods.svg",
@@ -365,9 +490,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "secondary-gallery-identity-source",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:0xedwoods-gif-gallery"
       ]
     },
     {
@@ -375,17 +501,28 @@
       "slug": "absolutely-wrong",
       "source_name": "Absolutely Wrong",
       "display_name": "Absolutely Wrong",
-      "handle": null,
+      "handle": "absolutely_wrong",
       "roles": [
         "artist"
       ],
       "bio": null,
       "style": [],
-      "links": [],
+      "links": [
+        {
+          "kind": "social",
+          "label": "X",
+          "url": "https://x.com/absolutely_wrong"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://superrare.com/absolutely_wrong"
+        }
+      ],
       "avatar": {
-        "kind": "generated-identity-tile",
-        "local_path": "/assets/archive/artists/absolutely-wrong.svg",
-        "status": "placeholder-pending-profile-avatar"
+        "kind": "verified-marketplace-profile-avatar",
+        "local_path": "/assets/archive/artists/verified/absolutely-wrong.gif",
+        "status": "source-backed-profile-image"
       },
       "exhibited_at": [
         "exhibit:marfa-2025"
@@ -400,9 +537,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "marketplace-authority-profile",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:absolutely-wrong-superrare"
       ]
     },
     {
@@ -650,6 +788,35 @@
       ]
     },
     {
+      "id": "artist:attabotty",
+      "slug": "attabotty",
+      "source_name": "AttaBotty",
+      "display_name": "AttaBotty",
+      "handle": null,
+      "roles": [
+        "artist",
+        "Marfa production"
+      ],
+      "bio": null,
+      "style": [],
+      "links": [],
+      "avatar": {
+        "kind": "generated-identity-tile",
+        "local_path": "/assets/archive/artists/attabotty.svg",
+        "status": "placeholder-pending-profile-avatar"
+      },
+      "exhibited_at": [
+        "exhibit:marfa-2025"
+      ],
+      "appearance_count": 1,
+      "exhibition_visuals": [],
+      "profile_status": "co-curator-roster-source",
+      "source_ids": [
+        "source:legacy-site",
+        "source:maxcapacity-marfa"
+      ]
+    },
+    {
       "id": "artist:c0mputerbl00d",
       "slug": "c0mputerbl00d",
       "source_name": "C0MPUTERBL00D",
@@ -723,18 +890,28 @@
       "id": "artist:crow",
       "slug": "crow",
       "source_name": "crow",
-      "display_name": "crow",
+      "display_name": "Crow",
       "handle": "crowgmi",
       "roles": [
         "artist"
       ],
-      "bio": null,
-      "style": [],
+      "bio": "Artist working in Orlando across photography and abstraction, using scanners, LED lights, secondhand printers, sandpaper, rain, and dirt.",
+      "style": [
+        "photography",
+        "abstraction",
+        "analog layering",
+        "experimental image-making"
+      ],
       "links": [
         {
           "kind": "social",
           "label": "X",
           "url": "https://x.com/crowgmi"
+        },
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://www.crow.art/about"
         }
       ],
       "avatar": {
@@ -771,10 +948,11 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "direct-artist-source",
       "source_ids": [
         "source:legacy-site",
-        "source:tokyo-transient"
+        "source:tokyo-transient",
+        "source:crow-official"
       ]
     },
     {
@@ -1295,13 +1473,25 @@
       "roles": [
         "artist"
       ],
-      "bio": null,
-      "style": [],
-      "links": [],
+      "bio": "Painter and digital artist making digital glitchpaintings that combine glitch aesthetics with traditional painting, using AI or original digital paintings as source material.",
+      "style": [
+        "painting",
+        "digital art",
+        "digital glitchpainting",
+        "glitch",
+        "AI-assisted image-making"
+      ],
+      "links": [
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://johnthurman.art/about"
+        }
+      ],
       "avatar": {
-        "kind": "generated-identity-tile",
-        "local_path": "/assets/archive/artists/john-thurman.svg",
-        "status": "placeholder-pending-profile-avatar"
+        "kind": "verified-artist-site-profile-image",
+        "local_path": "/assets/archive/artists/verified/john-thurman.jpeg",
+        "status": "source-backed-profile-image"
       },
       "exhibited_at": [
         "exhibit:marfa-2025"
@@ -1316,9 +1506,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "direct-artist-source",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:john-thurman-official"
       ]
     },
     {
@@ -1365,9 +1556,19 @@
       "roles": [
         "artist"
       ],
-      "bio": null,
-      "style": [],
-      "links": [],
+      "bio": "Jarid is a digital artist, graphic designer, and photographer. The current visible biography places him in Salt Lake City, Utah.",
+      "style": [
+        "digital art",
+        "graphic design",
+        "photography"
+      ],
+      "links": [
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "http://jrdsctt.com/about"
+        }
+      ],
       "avatar": {
         "kind": "generated-identity-tile",
         "local_path": "/assets/archive/artists/jrdsctt.svg",
@@ -1394,9 +1595,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "direct-artist-source-with-location-conflict",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:jrdsctt-official"
       ]
     },
     {
@@ -1443,9 +1645,21 @@
       "roles": [
         "artist"
       ],
-      "bio": null,
-      "style": [],
-      "links": [],
+      "bio": "Canadian artist exhibiting internationally since the early 1990s, working across print, painting, film, video, online animated GIFs, and installation.",
+      "style": [
+        "animated GIF",
+        "installation",
+        "film and video",
+        "painting",
+        "print"
+      ],
+      "links": [
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://whitney.org/artists/17414"
+        }
+      ],
       "avatar": {
         "kind": "generated-identity-tile",
         "local_path": "/assets/archive/artists/lorna-mills.svg",
@@ -1464,9 +1678,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "institutional-authority-profile",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:lorna-mills-whitney"
       ]
     },
     {
@@ -1823,9 +2038,21 @@
       "roles": [
         "artist"
       ],
-      "bio": null,
-      "style": [],
-      "links": [],
+      "bio": "Award-winning collage artist exploring sculptural, digital, immersive, and holographic collage methods.",
+      "style": [
+        "collage",
+        "sculptural collage",
+        "digital collage",
+        "immersive art",
+        "holographic collage"
+      ],
+      "links": [
+        {
+          "kind": "website",
+          "label": "website",
+          "url": "https://www.rebeccarosenft.com/about"
+        }
+      ],
       "avatar": {
         "kind": "generated-identity-tile",
         "local_path": "/assets/archive/artists/rebecca-rose.svg",
@@ -1844,9 +2071,10 @@
           "note": "First-party exhibition tile; not a verified portrait or social avatar."
         }
       ],
-      "profile_status": "roster-verified-profile-pending",
+      "profile_status": "direct-artist-source",
       "source_ids": [
-        "source:legacy-site"
+        "source:legacy-site",
+        "source:rebecca-rose-official"
       ]
     },
     {
@@ -3552,8 +3780,8 @@
   ],
   "stats": {
     "exhibits": 4,
-    "unique_artists": 45,
-    "artist_appearances": 76,
+    "unique_artists": 46,
+    "artist_appearances": 77,
     "repeat_artists": 19,
     "partners": 16,
     "local_media": 13,
@@ -3562,7 +3790,8 @@
   "known_gaps": [
     "Verified social avatars, biographies, and style statements remain incomplete for profiles not directly supported by inspected artist sources.",
     "Legacy first-party artwork tiles and large installation galleries are indexed, but their old wp-content URLs now return 404; only previously archived originals are served locally.",
-    "The first-party Marfa page says 18 October 2025 while the cited social post is dated 25 October 2025; both claims are retained for review.",
+    "The archived first-party Marfa gallery enumerates 34 artists; Max Capacity's co-curator page explicitly lists 35 by including AttaBotty. Both claims are retained and the named credit is included.",
+    "The Max Capacity NYC page labels its roster as 10 artists but enumerates nine names, matching the nine-name archived first-party roster; the accepted roster remains nine.",
     "The Marfa poster carried a stale NYC caption in the legacy page; local association is based on section placement and the October asset path."
   ]
 }
